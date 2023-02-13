@@ -1,2 +1,4 @@
 最初のファイル
 基本的なフローを学ぶ
+・gitadd
+・gitcommit
